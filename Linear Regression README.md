@@ -28,7 +28,7 @@ Depency Files:
 
 Bond Yield Relative to Yield on 10-Year Treasury (BAA10Y) Data: 
     Link: https://fred.stlouisfed.org/series/BAA10Y save as BAA10Y.csv in the same file location as the .ipnyb file. 
-    Important note: Dowload the the daily percetage data not the daily pricing data. This can be done on the tool icon   
+    Important note: Dowload the the daily percetage return data not the daily pricing data. This can be done on the tool icon   
     next to the graph. You should dowload from 2020-01-01 on.
     
 MSCI Intl Emerging Market Currency Data (em_currency): 
@@ -44,5 +44,5 @@ lr_data_cleanser method and the eq_lr_data_cleanser method takes in 3 optional a
 2.) end_date="yyyy-mm-dd" (data type: string)
 3.) interval_= any of the following 1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 1d, 5d, 1wk, 1mo, 3mo (data type: string)
 
-The regression models are built using ordinary least squares (OLS). We use the statsmodel library for this
+The regression models are built using ordinary least squares (OLS). We use the statsmodel library for the regressions.
 
