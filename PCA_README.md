@@ -1,5 +1,9 @@
 # PCA
-## We conducted analysis on major drivers of price chanages in Cryptos. 
+# Co-Authors Bailee Hanson and Rui Yu
+
+READ ME 
+
+We conducted analysis on major drivers of price chanages in Cryptos. 
 In order to use a diverse portfolio, we included major cryptos as wells as cryptos of Defi, NFT and Metaverse in our PCA. Please find the coins we used listed as follows: 
 Bitcoin (BTC), Solana(SOL), Polygon (Matic), Ethereum (ETH), XRP(XRP), Dogecoin(DOGE), Cardano(AdA), TRON(TRX), Litecoin (LTC), Uniswap(UNI), Avalanche (AVAX), Chainlink (LINK), Internet Computer (ICP), Apecoin (APE), Decentraland (MANA), Theta Network (THETA), Stacks (STX), Polkadot (DOT), Sushi swap (SUSHI), Gold (GLD), USD (DX-Y.NYB)
 
