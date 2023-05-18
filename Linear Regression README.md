@@ -1,4 +1,5 @@
 # Analytics-in-Practice-Crypto-Project
+# Co-Authors Bailee Hanson and Rui Yu
 
 READ ME
 
